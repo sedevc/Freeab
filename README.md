@@ -3,8 +3,8 @@ Freeab
 
 Control unit for automatic woodchip boiler
 
-Dependency
-===========
+####Dependency
+
 python-sqlite3, python-colorama, python-dev
 
 ####Schematic
