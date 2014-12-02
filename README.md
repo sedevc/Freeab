@@ -1,7 +1,7 @@
 Freeab
 ======
 
-Control unit for automatic woodchip burner
+Control unit for automatic wood chip burner
 
 ####Dependency
 
